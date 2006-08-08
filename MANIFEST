@@ -1,0 +1,5 @@
+Makefile.PL										  The makefile
+MANIFEST											  This file
+lib/Image/Magick/Square.pm				     The module
+META.yml                                 Module meta-data (added by MakeMaker)
+README											  Installation instructions
