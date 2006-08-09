@@ -4,7 +4,8 @@ use Carp;
 
 use strict;
 use warnings;
-our $VERSION = sprintf "%d.%03d", q$Revision: 1.1.1.1 $ =~ /(\d+)/g;
+our $VERSION = sprintf "%d.%03d", q$Revision: 1.2 $ =~ /(\d+)/g;
+
 
 # Image Magick Square
 # square an image, chop as needed

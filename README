@@ -1,4 +1,4 @@
-Image/Magick/Square version sprintf "%d.%03d", q$Revision: 1.1 $ =~ /(\d+)/g; 
+Image/Magick/Square version 0.01 
 =========================================
 
 This module will take an existing Image::Magick object and crop as needed
